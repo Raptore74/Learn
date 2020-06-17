@@ -2,3 +2,11 @@
     margin: 0;
     padding: 0;
 }
+
+table {
+    border: 2px dashed #000000
+}
+
+td {
+    border: 2px double #008000;
+}
