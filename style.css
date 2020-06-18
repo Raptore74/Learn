@@ -9,4 +9,23 @@ table {
 
 td {
     border: 2px double #008000;
+    color: #ffffff;
+}
+
+td.Rojo {
+    background: #ff0000;
+}
+td.Verde {
+    background: #008000;
+}
+
+td.Azul {
+    background: #0000ff;
+}
+td.Amarillo {
+    background: #ffff00;
+}
+
+td.Naranja {
+    background: #ffa500;
 }
